@@ -11,7 +11,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-TalesBacarinLopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/tales-bacarin-lopes-3a25071b2/)](https://www.linkedin.com/in/tales-bacarin-lopes-3a25071b2/)
 [![Gmail Badge](https://img.shields.io/badge/-talesbacarin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:talesbacarin@gmail.com)](mailto:talesbacarin@gmail.com)
-![Twitch](https://img.shields.io/badge/TalepoX-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white&link=https://twitch.tv/talepox)
+[![Twitch](https://img.shields.io/badge/TalepoX-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white&link=https://twitch.tv/talepox)](https://twitch.tv/talepox)
 <!-- [![Medium Badge](https://img.shields.io/badge/-@natansl-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@natansl/)](https://medium.com/@natansl) -->
 
 
