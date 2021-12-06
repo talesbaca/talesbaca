@@ -1,4 +1,4 @@
-<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Vitor Marcante</h1>
+<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Tales Bacarin</h1>
 <!-- <p align = "justify">Web Developer, capybara lover, Javascript and Node fan -->
 <!--  , Performance curious, @angular expert. Currently in love with RxJS and Reactive Programming.</p> -->
 
@@ -60,7 +60,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=talesbaca&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talesbaca&hide=TeX&layout=compact)
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=talesbaca&show_icons=true&theme=radical&layout=compact" alt="Github wakatime status" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=talepox&show_icons=true&theme=radical&layout=compact" alt="Github wakatime status" />
 
  
 <!-- <p align="left"><small>Quantidade de visitas no meu perfil desde: 26/06/2021 🕵️ <br></small></p> -->
