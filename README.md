@@ -3,7 +3,7 @@
 <!--  , Performance curious, @angular expert. Currently in love with RxJS and Reactive Programming.</p> -->
 
 
-- :rocket: I’m currently working autonomous.
+- :rocket: I’m currently working at Leads2b.
 - 🔭 I am currently about the Systems Development Analysis course at University Positivo Curitiba - PR!
 <!-- - 🌱 I’m currently learning  PHP, Vue.js, Node.js -->
 
